@@ -1,0 +1,19 @@
+<svg width="90" height="70" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>SVG icon Battery Car</title>
+ </g>
+ <g>
+  <title>car battery Icon</title>
+  <rect stroke="#ffffff" id="svg_2" height="44.5" width="83.250004" y="22.374998" x="3.374997" stroke-width="1.5" fill="#ffffff"/>
+  <path stroke="#9a0d20" id="svg_4" d="m14.183117,43.388864l4.213747,0l0,-4.296371l4.322505,0l0,4.296371l4.213748,0l0,4.407261l-4.213748,0l0,4.296371l-4.322505,0l0,-4.296371l-4.213747,0l0,-4.407261z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#ffffff"/>
+  <path id="svg_5" d="m62.190618,43.076975l15.749995,0l0,5.25l-15.749995,0l0,-5.25z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#9a0d20" fill="#ffffff"/>
+  <rect id="svg_11" height="3.875" width="11.125" y="15.625" x="5.8125" fill-opacity="null" stroke-width="1.5" stroke="#ffffff" fill="#ffffff"/>
+  <rect id="svg_12" height="3.875" width="11.125" y="15.625" x="72.5625" fill-opacity="null" stroke-width="1.5" stroke="#ffffff" fill="#ffffff"/>
+  <rect id="svg_13" height="1.875" width="3.875" y="13" x="9.3125" fill-opacity="null" stroke-width="1.5" stroke="#ffffff" fill="#ffffff"/>
+  <rect id="svg_14" height="1.75" width="4.5" y="13.25" x="75.6875" fill-opacity="null" stroke-width="1.5" stroke="#ffffff" fill="#ffffff"/>
+  <rect id="svg_18" height="3.375" width="11.625" y="44.125" x="14.5625" stroke-width="1.5" fill="#9a0d20"/>
+  <rect stroke="null" id="svg_19" height="12.125001" width="3.125" y="39.249999" x="18.9375" stroke-width="1.5" fill="#9a0d20"/>
+  <rect stroke="null" id="svg_20" height="4.25" width="15.125" y="43.625" x="62.4375" stroke-width="1.5" fill="#9a0d20"/>
+ </g>
+</svg>
